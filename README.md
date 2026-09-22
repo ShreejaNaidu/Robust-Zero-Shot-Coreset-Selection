@@ -66,6 +66,6 @@ The proposed method showed a performance drop of only **1.36%** relative to full
 ## Repository Structure
 
 ```text
-├── CV_PROJECT_FINAL.ipynb
+├── CV_PROJECT_CODE.ipynb
 ├── Project_Report.pdf
 └── README.md
